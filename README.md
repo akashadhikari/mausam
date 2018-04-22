@@ -1,7 +1,3 @@
-# Dailyweather
-Collecting daily weather data from Meteorological Forecasting Division, Nepal.
+# mausam
+A simple package that displays the daily weather report of Nepalese cities.
 
-This simple application scraps the weather data from MFD website and converts it into a csv. Lets see what else can be done.
-
-# Libraries
-BeautifulSoup, Pandas
