@@ -34,8 +34,6 @@ setup(
 
     install_requires=['beautifulsoup4', 'pandas'],
 
-    repository = https://upload.pypi.org/legacy/
-
     # extras_require={},
 
     # package_data={},
