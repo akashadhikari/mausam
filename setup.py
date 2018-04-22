@@ -24,15 +24,17 @@ setup(
 
     url='https://github.com/akashadhikari/mausam',
 
-    author='Akash',  # Optional
+    author='Akash',
 
     author_email='akashsky1313@gmail.com',
 
     keywords='nepal weather scraping',
 
-    packages=find_packages(exclude=['contrib', 'docs', 'tests']),  # Required
+    packages=find_packages(exclude=['contrib', 'docs', 'tests']),
 
-    install_requires=['beautifulsoup4', 'pandas'],  # Optional
+    install_requires=['beautifulsoup4', 'pandas'],
+
+    repository = https://upload.pypi.org/legacy/
 
     # extras_require={},
 
